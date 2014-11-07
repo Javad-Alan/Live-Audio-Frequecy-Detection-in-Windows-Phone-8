@@ -46,8 +46,8 @@ or between the negative and positive Nyquist frequency.
 
 To read more you guys definitely can check these awesome wikis:
 
-(http://developer.nokia.com/community/wiki/Sound_pattern_matching_using_Fast_Fourier_Transform_in_Windows_Phone)
-(http://developer.nokia.com/community/wiki/How_to_access_and_manage_the_Microphone_raw_data_in_WP)
+1. http://developer.nokia.com/community/wiki/Sound_pattern_matching_using_Fast_Fourier_Transform_in_Windows_Phone
+2. http://developer.nokia.com/community/wiki/How_to_access_and_manage_the_Microphone_raw_data_in_WP
 
 Now here, with the new DSP class provided the FFT and frequency detection became a
 breeze.
